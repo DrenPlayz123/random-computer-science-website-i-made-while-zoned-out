@@ -1,0 +1,69 @@
+/* mr keyes please i need a good gradeee i cramed this all into like a 1.5 hour session (yes i was distracted while making this) cuz i thought it was due on friday */
+
+body {
+  background-color: #0a0f1a;
+  color: #e0e6ff;
+  font-family: "Segoe UI", sans-serif;
+  margin: 0;
+  padding: 20px;
+  line-height: 1.6;
+}
+
+p {
+  color: #d0d8ff;
+  font-family: Arial;
+  font-size: 18px;
+  text-align: left;
+  letter-spacing: 0.5px;
+  text-shadow: 1px 1px 3px black;
+}
+
+h1, h2 {
+  color: #7aa2ff;
+  font-family: Verdana;
+  text-align: center;
+  letter-spacing: 2px;
+  text-decoration: underline;
+  text-shadow: 2px 2px 4px black;
+}
+
+ul {
+  color: #9ab6ff;
+  font-family: "Courier New";
+  font-size: 18px;
+  letter-spacing: 1px;
+  text-shadow: 1px 1px 2px black;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+  border-style: solid;
+  border-width: 4px;
+  border-color: #7aa2ff;
+  border-radius: 15px;
+  float: right;
+  margin: 15px;
+}
+
+
+.highlight {
+  color: #ffdd55;
+  background-color: #222;
+  padding: 10px;
+  border-radius: 6px;
+}
+
+.linux-section {
+  border-left: 5px solid #7aa2ff;
+  padding-left: 15px;
+  margin-bottom: 20px;
+}
+
+.distro-list {
+  background-color: #111;
+  padding: 15px;
+  border-radius: 10px;
+  list-style-type: square;
+}
+
